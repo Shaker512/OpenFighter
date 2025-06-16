@@ -1,21 +1,30 @@
-MIT License
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal
 
-Copyright (c) 2025 Shaker512
+This project is licensed under the CERN OHL v2-SR.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+You may copy, modify, and distribute the design files, provided that:
+- You include this license in any redistribution,
+- You document changes clearly,
+- You make the modified source files available under the same license.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This license is intended to promote sharing and improvement of hardware designs while ensuring that all derivative works remain free and open.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+---
+
+Additional Ethical Restriction (Non-Military Use)
+
+In addition to the terms of the CERN OHL v2-SR:
+
+**The use of this project, in whole or in part, for any military, violent, or state-sponsored armed purpose is strictly prohibited.**
+
+This includes, but is not limited to:
+- Use in the design, manufacturing, or operation of real-world weapons
+- Use in armed conflict, military R&D, or government combat programs
+- Integration into military equipment or platforms
+
+Anyone found violating this clause automatically loses the right to use, modify, or distribute this project.
+
+---
+
+For the full legal text of the CERN OHL v2, see:  
+https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2
